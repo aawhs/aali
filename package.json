@@ -1,0 +1,29 @@
+{
+  "name": "aali-nodejs-service",
+  "version": "1.0.0",
+  "description": "aali webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aawhs/aali.git"
+  },
+  "keywords": [
+    "aali",
+    "resume",
+    "cv"
+  ],
+  "author": "Ahmed Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aawhs/aali/issues"
+  },
+  "homepage": "https://github.com/aawhs/aali#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
+
